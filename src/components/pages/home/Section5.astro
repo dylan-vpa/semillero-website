@@ -1,14 +1,20 @@
 ---
 import PostCard from "../../ui/HomePostCard.astro"
+import { formatBlogPosts } from "../../../scripts"
 
 const posts = await Astro.glob('../../../pages/blog/*.md')
-
+const formattedPosts = formatBlogPosts(posts, {
+  filterOutDrafts: true,
+  filterOutFuturePosts: true,
+  sortByDate: false,
+  limit: 3,
+})
 ---
 
 <article class="flex flex-col items-center gap-[32px] ">
   <h2 class="text-[48px] font-bold">Algunas de nuestras publicaciones</h2>
   <ul class="flex gap-[32px]">
-    {posts.slice(0, 3).map((post, index)=>{
+    {formattedPosts.map((post, index)=>{
       return (
         <PostCard frontmatter={post.frontmatter} url={post.url} index={index}/>
       )

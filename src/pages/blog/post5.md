@@ -1,9 +1,10 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
 title: A Post about Important Items Of Life
-date: 2022-11-10
-author: Dylan
+date: 2022-11-20
+author: Samantha
 description: Have you ever wondered what the most important items of life are? Well, wonder no more!
+image: { src: "https://i.pinimg.com/564x/76/ad/00/76ad00aaa4b8aa9673ebf1ab6822407e.jpg", alt: "" }
 draft: false
 category: REFERENCE DOCS
 ---
