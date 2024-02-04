@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPostLayout.astro"
 title: A Post about Important Items Of Life
 date: 2022-11-20
-author: Darnell McClure
+author: Dylan
 description: Have you ever wondered what the most important items of life are? Well, wonder no more!
 draft: false
 category: REFERENCE DOCS
