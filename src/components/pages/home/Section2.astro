@@ -1,31 +1,12 @@
 ---
-const info = [
-  {
-    icon: '../../../public/img/graduationIcon.svg',
-    title: "Formación académica",
-    description:
-      "Impartir cursos y talleres especializados para fortalecer el conocimiento teórico necesario en el área de investigación.",
-  },
-  {
-    icon: '../../../public/img/upIcon.svg',
-    title: "Desarrollo de habilidades",
-    description:
-      "Promover el desarrollo de habilidades como la capacidad de análisis, el pensamiento crítico y la resolución de problemas, fundamentales para la investigación.",
-  },
-  {
-    icon: '../../../public/img/groupIcon.svg',
-    title: "Aprendizaje colaborativo",
-    description:
-      "Fomentar la colaboración entre los participantes, creando un entorno en el que se compartan ideas, experiencias y conocimientos para enriquecer el proceso educativo.",
-  },
-];
+import objetives from "../../../info/objetives";
 ---
 
 <article class="flex flex-col items-center gap-[32px]">
   <h2 class="text-[48px] font-bold">Nuestros objetivos</h2>
   <ul class="flex gap-[32px]">
     {
-      info.map((info) => {
+      objetives.map((info) => {
         return (
           <li class="w-[100%]">
             <section class="flex flex-col items-center gap-[8px] p-[32px] h-[100%] rounded-xl bg-[#f1f1f1]">
