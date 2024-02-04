@@ -6,13 +6,12 @@ const formattedPosts = formatBlogPosts(posts, {
   filterOutDrafts: true,
   filterOutFuturePosts: true,
   sortByDate: true,
-  limit: 10,
 })
 ---
 
 <article class="flex flex-col items-center gap-[32px]">
   <h2 class="text-[48px] font-bold">Nuestras publicaciones</h2>
-  <section class="flex gap-[8px]">
+  <section class="flex justify-center gap-[8px]">
     <ul class="flex flex-wrap gap-[32px] w-[70%]">
       {
         formattedPosts.map((post) => {
@@ -20,9 +19,5 @@ const formattedPosts = formatBlogPosts(posts, {
         })
       }
     </ul>
-    <aside class="p-[32px]">
-      <h2 class="text-[18px] font-bold">Mas sobre:</h2>
-
-    </aside>
   </section>
 </article>
