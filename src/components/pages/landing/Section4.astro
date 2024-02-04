@@ -1,0 +1,46 @@
+---
+const info = [
+  {
+    photo: "../../../public/img/Dylan.jpg",
+    nombre: "Dylan",
+    cargo: "Estudiante",
+  },
+  {
+    photo: "../../../public/img/Dylan.jpg",
+    nombre: "Dylan",
+    cargo: "Estudiante",
+  },
+  {
+    photo: "../../../public/img/Dylan.jpg",
+    nombre: "Dylan",
+    cargo: "Estudiante",
+  },
+];
+---
+
+<article class="flex flex-col items-center gap-[32px]">
+  <h2 class="text-[48px] font-bold">Nuestro equipo</h2>
+  <ul class="flex gap-[32px]">
+    {
+      info.map((info) => {
+        return (
+          <li class="w-[100%]">
+            <section class="flex items-center gap-[32px]  p-[32px] h-[100%] rounded-xl ">
+              <img src={info.photo} alt="" width="50%" height="50%" class="rounded-[50%]"/>
+              <div class="flex flex-col gap-[8px] w-[100%]">
+                <h3 class="text-[24px] font-[600]">{info.nombre}</h3>
+                <p class="text-[16px]">{info.cargo}</p>
+                <a
+                  href={info.nombre}
+                  class="flex items-center text-black rounded-3xl text-[#c7ddb5]"
+                >
+                  Conoce mas&nbsp;&nbsp;&nbsp;⭢
+                </a>
+              </div>
+            </section>
+          </li>
+        );
+      })
+    }
+  </ul>
+</article>
