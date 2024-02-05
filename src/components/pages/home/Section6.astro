@@ -1,33 +1,12 @@
 ---
-const info = [
-  {
-    photo:
-      "https://media.licdn.com/dms/image/D4E0BAQH-JTKEVOFT0g/company-logo_200_200/0/1689358098647/contentcraft_studio_logo?e=2147483647&v=beta&t=KHL3cwhW00FKf4iahC_YK8Ym7vptglt806K1GZceyyM",
-  },
-  {
-    photo:
-      "https://media.licdn.com/dms/image/D4E0BAQH-JTKEVOFT0g/company-logo_200_200/0/1689358098647/contentcraft_studio_logo?e=2147483647&v=beta&t=KHL3cwhW00FKf4iahC_YK8Ym7vptglt806K1GZceyyM",
-  },
-  {
-    photo:
-      "https://media.licdn.com/dms/image/D4E0BAQH-JTKEVOFT0g/company-logo_200_200/0/1689358098647/contentcraft_studio_logo?e=2147483647&v=beta&t=KHL3cwhW00FKf4iahC_YK8Ym7vptglt806K1GZceyyM",
-  },
-  {
-    photo:
-      "https://media.licdn.com/dms/image/D4E0BAQH-JTKEVOFT0g/company-logo_200_200/0/1689358098647/contentcraft_studio_logo?e=2147483647&v=beta&t=KHL3cwhW00FKf4iahC_YK8Ym7vptglt806K1GZceyyM",
-  },
-  {
-    photo:
-      "https://media.licdn.com/dms/image/D4E0BAQH-JTKEVOFT0g/company-logo_200_200/0/1689358098647/contentcraft_studio_logo?e=2147483647&v=beta&t=KHL3cwhW00FKf4iahC_YK8Ym7vptglt806K1GZceyyM",
-  },
-];
+import enterprises from "../../../info/enterprises";
 ---
 
 <article class="flex flex-col items-center gap-[32px]">
   <h2 class="text-[48px] font-bold">Empresas aliadas</h2>
   <ul class="flex justify-center gap-[32px]">
     {
-      info.map((info) => {
+      enterprises.map((info) => {
         return (
           <li>
             <a href="/" class="flex justify-center align-center">
