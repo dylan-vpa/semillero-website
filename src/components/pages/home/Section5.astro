@@ -11,9 +11,9 @@ const formattedPosts = formatBlogPosts(posts, {
 })
 ---
 
-<article class="flex flex-col items-center gap-[32px] ">
-  <h2 class="text-[48px] font-bold">Algunas de nuestras publicaciones</h2>
-  <ul class="flex gap-[32px]">
+<article class="flex flex-col items-center gap-[32px]">
+  <h2 class="text-[32px] md:text-[40px] xl:text-[64px] text-center font-bold">Algunas de nuestras publicaciones</h2>
+  <ul class="flex flex-col md:flex-col xl:flex-row gap-[32px]">
     {formattedPosts.map((post, index)=>{
       return (
         <PostCard frontmatter={post.frontmatter} url={post.url} index={index}/>
