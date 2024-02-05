@@ -21,7 +21,8 @@ export function formatBlogPosts(
     filterOutDrafts = true,
     filterOutFuturePosts = true,
     sortByDate = true,
-    limit = undefined,
+    limit,
+    categoryFilter = '',
   } = {}
 ) {
   const filteredPosts = posts.reduce((acc, post) => {
@@ -32,6 +33,9 @@ export function formatBlogPosts(
 
     //filterOutFuturePosts if true
     if (filterOutFuturePosts && new Date(date) > new Date()) return acc;
+
+    ////filterByCategory
+    if (categoryFilter && !post.frontmatter.category.includes(categoryFilter)) return acc;
 
     //add post to acc
     acc.push(post);
