@@ -1,0 +1,43 @@
+---
+import TreeLinks from "../info/linktree"
+import TreeLayout from "../layouts/TreeLayout.astro"
+
+---
+
+<TreeLayout title="Link tree | Semillero Abellista">
+    <header>
+      <picture>
+        <img width="350px" src="/img/404.png" alt="" />
+      </picture>
+    </header>
+    <main>
+      <ul class="flex flex-col justify-center items-center gap-[28px]">
+        {TreeLinks.map((link) => (
+          <li>
+            <a
+              href={link.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="link-container relative flex pl-[106px] items-center gap-[10px] w-[300px] h-[46px] rounded-[100px] border-[2px]"
+            >
+              <i class={link.icon}></i>
+              {link.title}
+              <i class="arrow-icon bi bi-arrow-right absolute right-[32px]"></i> 
+            </a>
+          </li>
+        ))}
+      </ul>
+    </main>
+  
+    <!--estilos para lograr que el icono de flecha se muestre al hacer hover sobre su contenedor -->
+    <style>
+      .link-container:hover .arrow-icon {
+        display: flex; 
+      }
+  
+      .arrow-icon {
+        display: none; 
+      }
+    </style>
+  </TreeLayout>
+  
