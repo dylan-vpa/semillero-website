@@ -9,8 +9,8 @@ import enterprises from "../../../info/enterprises";
       enterprises.map((info) => {
         return (
           <li>
-            <a href="/" class="flex justify-center align-center">
-              <img src={info.photo} alt="" width="50%" height="50%" />
+            <a href={info.url} class="flex justify-center align-center">
+              <img src={info.photo} alt="" class="h-[64px]" />
             </a>
           </li>
         );
