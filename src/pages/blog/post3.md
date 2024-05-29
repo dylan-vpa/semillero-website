@@ -1,28 +1,25 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: A Post about Important Items Of Life
-date: 2022-10-20
+title: La cienaga de Mallorquin - Un laboratorio viviente para la ciencia
+date: 2022-11-20
 author: Dylan
-description: Have you ever wondered what the most important items of life are? Well, wonder no more!
-image: { src: "https://i.pinimg.com/564x/76/ad/00/76ad00aaa4b8aa9673ebf1ab6822407e.jpg", alt: "" }
+
+description: 
+image: { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUS6PIj5Rb0JwqqvK58GVQf9xJz_J1gqb_VA&s", alt: "" }
 draft: false
-category: REFERENCE DOCS
+category: BIOLOGY   
 ---
 
-<img src="https://i.pinimg.com/564x/76/ad/00/76ad00aaa4b8aa9673ebf1ab6822407e.jpg" alt:="" width="100%" class="rounded-md"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUS6PIj5Rb0JwqqvK58GVQf9xJz_J1gqb_VA&s" alt:="" width="100%" class="rounded-md"/>
 
-Nisi duis ex aliqua eu officia eiusmod duis magna pariatur. Irure laborum qui aliqua nulla esse cillum laborum aliquip nulla elit. Id id Lorem duis irure cillum culpa. Nulla sint et aliqua velit do. Nulla sit sit proident consectetur enim ullamco aliqua in reprehenderit ullamco officia.
+Más allá de la belleza en sus paisajes, la Cienaga de Mallorquín es un auténtico laboratorio viviente que ofrece a los científicos un entorno único para estudiar la interacción entre el agua dulce y salada, así como la adaptación de las especies a condiciones cambiantes.
 
-Ad ipsum velit sint enim exercitation mollit consequat elit mollit qui commodo aute. Laboris culpa voluptate aliquip incididunt duis. Cupidatat aliquip et sunt aute fugiat cupidatat irure voluptate. Occaecat officia et sunt.
+La ciénaga experimenta fluctuaciones diarias y estacionales en la salinidad, la temperatura y los niveles de agua, lo que la convierte en un lugar ideal para investigar cómo los organismos responden a estos cambios. Los científicos pueden estudiar los ciclos de vida de peces y crustáceos, la dinámica de las poblaciones de aves migratorias y la resiliencia de los manglares frente a las variaciones ambientales.
 
-Officia tempor voluptate enim consequat cillum aute fugiat cupidatat incididunt magna labore in commodo. Eiusmod nostrud non deserunt. Incididunt excepteur pariatur magna. Proident aute ad in velit labore enim sit cillum ad mollit proident et qui. Esse sunt ullamco ullamco ipsum enim eu esse id eu exercitation laboris magna Lorem. Anim nostrud officia anim velit do exercitation labore mollit excepteur excepteur ex.
+La ciénaga de mallorquín alberga especies que solo se encuentran en este tipo de ecosistemas salobres. Los investigadores pueden descubrir nuevas especies de plantas insectos y microorganismos, así como estudiar las adaptaciones fisiológicas y comportamentales que les permiten sobrevivir en este entorno particular.
 
-Ipsum adipisicing exercitation dolor pariatur labore qui. Culpa cupidatat ea elit eiusmod tempor ea qui dolor Lorem laborum adipisicing. Ad ea laboris qui cupidatat deserunt culpa. Nulla ex velit adipisicing proident fugiat deserunt sunt eu adipisicing sint incididunt quis qui. Nulla fugiat labore duis ullamco reprehenderit excepteur laboris tempor ullamco aliquip laborum aliqua. Est tempor nisi magna ut elit pariatur commodo.
+El estudio de la ciénaga de mallorquín puede proporcionar información valiosa para la conservación de otros ecosistemas similares en todo el mundo. Los científicos pueden desarrollar estrategias para proteger y restaurar los manglares, gestionar los recursos hídricos de manera sostenible y mitigar los efectos del cambio climático en las zonas costeras.
 
-Labore commodo do incididunt amet ad et exercitation magna veniam veniam aute laboris excepteur occaecat Lorem. Fugiat in magna commodo magna nulla eu. Fugiat nulla aliqua sunt duis enim irure aliquip fugiat aliqua Lorem ad tempor incididunt proident incididunt. Labore fugiat tempor esse cillum voluptate culpa anim sunt consequat. Ipsum minim nostrud laborum sit aliquip duis officia consequat est. Fugiat mollit elit nulla. Sit minim est elit labore. Sunt eu pariatur pariatur ut deserunt nulla labore in non sit tempor voluptate ex:
+La investigación científica en la Ciénaga de Mallorquín no solo beneficia a la comunidad científica, sino también a la comunidad local. Los conocimientos generados pueden ayudar a mejorar la calidad de vida de los pescadores, a promover el turismo sostenible y sensibilizar a la población sobre la importancia de conservar este valioso ecosistema.
 
-• List Items
 
-• List Items
-
-Lorem at in magna commodo magna nulla eu. Fugiat nulla aliqua sunt duis enim irure aliquip fugiat aliqua Lorem ad tempor incididunt proident incididunt. Labore fugiat tempor esse cillum voluptate culpa anim sunt consequat. Ipsum minim nostrud laborum sit aliquip duis officia consequa

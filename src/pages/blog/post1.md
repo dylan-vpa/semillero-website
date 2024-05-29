@@ -1,29 +1,19 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: A Post about Important Items Of Life
+title: La joya oculta de Barranquilla - Secretos de la Ciénaga de Mallorquín
 date: 2022-11-20
 author: Dylan
 
-description: Have you ever wondered what the most important items of life are? Well, wonder no more!
-image: { src: "https://i.pinimg.com/564x/76/ad/00/76ad00aaa4b8aa9673ebf1ab6822407e.jpg", alt: "" }
+description: 
+image: { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUS6PIj5Rb0JwqqvK58GVQf9xJz_J1gqb_VA&s", alt: "" }
 draft: false
-category: REFERENCE DOCS
+category: BIOLOGY   
 ---
 
-<img src="https://i.pinimg.com/564x/76/ad/00/76ad00aaa4b8aa9673ebf1ab6822407e.jpg" alt:="" width="100%" class="rounded-md"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUS6PIj5Rb0JwqqvK58GVQf9xJz_J1gqb_VA&s" alt:="" width="100%" class="rounded-md"/>
 
-Nisi duis ex aliqua eu officia eiusmod duis magna pariatur. Irure laborum qui aliqua nulla esse cillum laborum aliquip nulla elit. Id id Lorem duis irure cillum culpa. Nulla sint et aliqua velit do. Nulla sit sit proident consectetur enim ullamco aliqua in reprehenderit ullamco officia.
 
-Ad ipsum velit sint enim exercitation mollit consequat elit mollit qui commodo aute. Laboris culpa voluptate aliquip incididunt duis. Cupidatat aliquip et sunt aute fugiat cupidatat irure voluptate. Occaecat officia et sunt.
-
-Officia tempor voluptate enim consequat cillum aute fugiat cupidatat incididunt magna labore in commodo. Eiusmod nostrud non deserunt. Incididunt excepteur pariatur magna. Proident aute ad in velit labore enim sit cillum ad mollit proident et qui. Esse sunt ullamco ullamco ipsum enim eu esse id eu exercitation laboris magna Lorem. Anim nostrud officia anim velit do exercitation labore mollit excepteur excepteur ex.
-
-Ipsum adipisicing exercitation dolor pariatur labore qui. Culpa cupidatat ea elit eiusmod tempor ea qui dolor Lorem laborum adipisicing. Ad ea laboris qui cupidatat deserunt culpa. Nulla ex velit adipisicing proident fugiat deserunt sunt eu adipisicing sint incididunt quis qui. Nulla fugiat labore duis ullamco reprehenderit excepteur laboris tempor ullamco aliquip laborum aliqua. Est tempor nisi magna ut elit pariatur commodo.
-
-Labore commodo do incididunt amet ad et exercitation magna veniam veniam aute laboris excepteur occaecat Lorem. Fugiat in magna commodo magna nulla eu. Fugiat nulla aliqua sunt duis enim irure aliquip fugiat aliqua Lorem ad tempor incididunt proident incididunt. Labore fugiat tempor esse cillum voluptate culpa anim sunt consequat. Ipsum minim nostrud laborum sit aliquip duis officia consequat est. Fugiat mollit elit nulla. Sit minim est elit labore. Sunt eu pariatur pariatur ut deserunt nulla labore in non sit tempor voluptate ex:
-
-• List Items
-
-• List Items
-
-Lorem at in magna commodo magna nulla eu. Fugiat nulla aliqua sunt duis enim irure aliquip fugiat aliqua Lorem ad tempor incididunt proident incididunt. Labore fugiat tempor esse cillum voluptate culpa anim sunt consequat. Ipsum minim nostrud laborum sit aliquip duis officia consequa
+La Ciénaga de Mallorquín, un extenso laberinto de manglares y lagunas de agua dulce, susurra historias de épocas olvidadas y maravillas ecológicas. Ubicada en las afueras de Barranquilla, Colombia, esta joya oculta posee un encanto único, atrayendo a los exploradores con su belleza mística y su diverso ecosistema.
+Si bien la Ciénaga puede parecer una extensión tranquila y aislada, bajo la superficie se encuentra un mundo bullicioso lleno de vida. Es un refugio para más de 180 especies de aves, incluido el gavilán coliblanco en peligro de extinción, y un criadero para innumerables peces, cangrejos y otras criaturas acuáticas. La intrincada red de canales y lagunas proporciona un hábitat vital para las aves migratorias, lo que convierte a la Ciénaga en una parte fundamental de la ruta migratoria.
+La historia de la Ciénaga está entretejida con las historias de los pueblos indígenas que alguna vez prosperaron aquí. Aún se encuentran restos de su cerámica y herramientas esparcidos por toda la zona, recordándonos el rico patrimonio cultural entrelazado con este paisaje.
+La Ciénaga ofrece una experiencia auditiva inolvidable. El suave susurro de las hojas, la sinfonía de los cantos de los pájaros y el chapoteo del agua contra las raíces de los manglares crean una melodía relajante que te transporta a un mundo lejos del ajetreo y el bullicio de la vida de la ciudad.

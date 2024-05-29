@@ -1,27 +1,23 @@
 ---
 layout: "../../layouts/BlogPostLayout.astro"
-title: A Post about Important Items Of Life
-date: 2022-11-10
+title: La Ciénaga de Mallorquín - Un salvavidas bajo amenaza
+date: 2022-11-20
 author: Dylan
-description: Have you ever wondered what the most important items of life are? Well, wonder no more!
+
+description: 
+image: { src: "https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP3065854-h-o.webp", alt: "" }
 draft: false
-category: BIOLOGY
+category: BIOLOGY   
 ---
 
-<img src="https://i.pinimg.com/564x/76/ad/00/76ad00aaa4b8aa9673ebf1ab6822407e.jpg" alt:="" width="100%" class="rounded-md"/>
+<img src="https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP3065854-h-o.webp" alt:="" width="100%" class="rounded-md"/>
 
-Nisi duis ex aliqua eu officia eiusmod duis magna pariatur. Irure laborum qui aliqua nulla esse cillum laborum aliquip nulla elit. Id id Lorem duis irure cillum culpa. Nulla sint et aliqua velit do. Nulla sit sit proident consectetur enim ullamco aliqua in reprehenderit ullamco officia.
 
-Ad ipsum velit sint enim exercitation mollit consequat elit mollit qui commodo aute. Laboris culpa voluptate aliquip incididunt duis. Cupidatat aliquip et sunt aute fugiat cupidatat irure voluptate. Occaecat officia et sunt.
+La Ciénaga de Mallorquín, una parte crucial del ecosistema del Caribe colombiano, enfrenta una multitud de desafíos que amenazan su delicado equilibrio. Si bien su belleza cautiva, su fragilidad exige atención.
+Las aguas de la Ciénaga están cada vez más contaminadas principalmente por los desechos industriales y las aguas residuales sin tratar de las comunidades cercanas. Este cóctel tóxico daña la vida acuática, interrumpe la delicada red alimentaria y pone en peligro la salud de todo el ecosistema.
+El suministro de agua dulce de la Ciénaga está disminuyendo debido a prácticas agrícolas insostenibles y la invasión de la urbanización. Esta escasez de agua amenaza la existencia misma de la diversa flora y fauna que llaman hogar a la Ciénaga.
+La erosión constante de los manglares debido a las actividades humanas y los factores naturales debilita las defensas naturales de la Ciénaga contra las tormentas y las inundaciones. Esta erosión no solo destruye hábitats cruciales, sino que también aumenta la vulnerabilidad de las comunidades costeras a los desastres naturales.
+La Ciénaga de Mallorquín es un recurso natural vital para Barranquilla y la región circundante. Su salud y bienestar están entrelazados con la prosperidad económica y social de la comunidad. Abordar los desafíos que enfrenta requiere una acción colaborativa del gobierno, las comunidades locales y las organizaciones comprometidas con la protección del medio ambiente.
+En la próxima entrada, explicaremos los esfuerzos en curso para restaurar y proteger la Ciénaga de Mallorquín, destacando las iniciativas inspiradoras que están dando esperanza para su futuro.
 
-Officia tempor voluptate enim consequat cillum aute fugiat cupidatat incididunt magna labore in commodo. Eiusmod nostrud non deserunt. Incididunt excepteur pariatur magna. Proident aute ad in velit labore enim sit cillum ad mollit proident et qui. Esse sunt ullamco ullamco ipsum enim eu esse id eu exercitation laboris magna Lorem. Anim nostrud officia anim velit do exercitation labore mollit excepteur excepteur ex.
 
-Ipsum adipisicing exercitation dolor pariatur labore qui. Culpa cupidatat ea elit eiusmod tempor ea qui dolor Lorem laborum adipisicing. Ad ea laboris qui cupidatat deserunt culpa. Nulla ex velit adipisicing proident fugiat deserunt sunt eu adipisicing sint incididunt quis qui. Nulla fugiat labore duis ullamco reprehenderit excepteur laboris tempor ullamco aliquip laborum aliqua. Est tempor nisi magna ut elit pariatur commodo.
-
-Labore commodo do incididunt amet ad et exercitation magna veniam veniam aute laboris excepteur occaecat Lorem. Fugiat in magna commodo magna nulla eu. Fugiat nulla aliqua sunt duis enim irure aliquip fugiat aliqua Lorem ad tempor incididunt proident incididunt. Labore fugiat tempor esse cillum voluptate culpa anim sunt consequat. Ipsum minim nostrud laborum sit aliquip duis officia consequat est. Fugiat mollit elit nulla. Sit minim est elit labore. Sunt eu pariatur pariatur ut deserunt nulla labore in non sit tempor voluptate ex:
-
-• List Items
-
-• List Items
-
-Lorem at in magna commodo magna nulla eu. Fugiat nulla aliqua sunt duis enim irure aliquip fugiat aliqua Lorem ad tempor incididunt proident incididunt. Labore fugiat tempor esse cillum voluptate culpa anim sunt consequat. Ipsum minim nostrud laborum sit aliquip duis officia consequa
