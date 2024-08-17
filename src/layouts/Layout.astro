@@ -22,8 +22,8 @@ const { title } = Astro.props as Props;
     <title>{title}</title>
     <link rel="shortcut icon" href="/img/Logo.png" type="image/x-icon" />
   </head>
-  <body>
-    <section class="flex flex-col py-8 px-8 md:px-16 xl:px-32 gap-16">
+  <body class="">
+    <section class="max-w-screen-2xl m-auto flex flex-col py-8 px-8 md:px-16 xl:px-32 gap-16">
       <Nav />
       <slot />
     </section>
