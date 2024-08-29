@@ -36,7 +36,7 @@ const authors = [
         cargo: 'Docente'
     },
     {
-        photo: '/img/Prieto.JPG',
+        photo: '/img/Edgar.JPG',
         nombre: 'Edgar',
         description: '',
         cargo: 'Docente'
