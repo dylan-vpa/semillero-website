@@ -1,32 +1,44 @@
 const authors = [
     {
+        photo: '/img/MiAmor.jpg',
+        nombre: 'Mariana',
+        description: '',
+        cargo: 'Estudiante'
+    },
+    {
         photo: '/img/Dylan.jpg',
         nombre: 'Dylan',
-        description: 'Joven apasionado por el amprendizaje, el cafe y la tecnologia. Soy Desarrollador web y emprendedor, busco cualificarme y mejorar la calidad de vida actual solucionando problematicas socioambientales',
-        cargo: 'Estudiante'
+        description: '',
+        cargo: 'Presidente'
     },
     {
-        photo: '/img/Dylan.jpg',
+        photo: '/img/Samantha.jpg',
         nombre: 'Samantha',
-        description: 'Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo, Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo',
-        cargo: 'Estudiante'
+        description: '',
+        cargo: 'Vicepresidente'
     },
     {
-        photo: '/img/Dylan.jpg',
+        photo: '/img/Mafe.jpg',
         nombre: 'Mafe',
-        description: 'Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo, Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo',
+        description: '',
         cargo: 'Estudiante'
     },
     {
-        photo: '/img/Dylan.jpg',
+        photo: '/img/Leonardo.png',
+        nombre: 'Leonardo',
+        description: '',
+        cargo: 'Estudiante'
+    },
+    {
+        photo: '/img/Alba.JPG',
         nombre: 'Alba',
-        description: 'Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo, Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo',
+        description: '',
         cargo: 'Docente'
     },
     {
-        photo: '/img/Dylan.jpg',
+        photo: '/img/Prieto.jpg',
         nombre: 'Edgar',
-        description: 'Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo, Soy un joven desarrollador web que busca seguir aprendiendo para ampliar sus horizontes. Me apasiona la música, el café y la tecnología. Gracias por el apoyo',
+        description: '',
         cargo: 'Docente'
     },
 ]
