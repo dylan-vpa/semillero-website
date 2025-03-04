@@ -1,21 +1,27 @@
 const authors = [
     {
+        photo: '/img/Edgar.JPG',
+        nombre: 'Edgar',
+        description: '',
+        cargo: 'Coordinador de investigacion'
+    },
+    {
+        photo: '/img/Dylan.jpg',
+        nombre: 'Dylan',
+        description: '',
+        cargo: 'Lider estudiantil'
+    },
+    {
         photo: '/img/MiAmor.jpg',
         nombre: 'Mariana',
         description: '',
         cargo: 'Estudiante'
     },
     {
-        photo: '/img/Dylan.jpg',
-        nombre: 'Dylan',
-        description: '',
-        cargo: 'Presidente'
-    },
-    {
         photo: '/img/Samantha.jpg',
         nombre: 'Samantha',
         description: '',
-        cargo: 'Vicepresidente'
+        cargo: 'Estudiante'
     },
     {
         photo: '/img/Mafe.jpg',
@@ -32,12 +38,6 @@ const authors = [
     {
         photo: '/img/Alba.JPG',
         nombre: 'Alba',
-        description: '',
-        cargo: 'Docente'
-    },
-    {
-        photo: '/img/Edgar.JPG',
-        nombre: 'Edgar',
         description: '',
         cargo: 'Docente'
     },
